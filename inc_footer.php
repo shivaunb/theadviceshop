@@ -1,4 +1,4 @@
-<footer><p class="copyright">&copy; 2016, The Advice Shop.</p>
+<footer><p class="copyright">&copy; 2024, The Advice Shop. Shivaun Prac 7</p>
     <p class="user"><?php
 // echo $_SESSION['blah']; // demo undefined variable
 if (isset($_SESSION['username'])) {
